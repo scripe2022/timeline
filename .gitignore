@@ -7,4 +7,6 @@ nuxt.d.ts
 **/config/*
 !**/config/config.js
 !**/config/configDemo.json
-database/init.js
+**/database/*
+!**/database/sql.sql
+!**/database/mysqlQuery.js
