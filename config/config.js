@@ -1,4 +1,4 @@
-import config from './configSH_local.json';
+import config from './configDemo.json';
 
 export default {
     mysql: config.mysql,
