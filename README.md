@@ -45,7 +45,7 @@ Edit the database and oss info in `config/configDemo.json`, or create a new json
     	"accessKeySecret": "<oss-accessKeySecret>",
     	"bucket": "<oss-bucket>",
     	"arn": "<oss-arn>"
-	},
+    },
     "baseurl": "http://127.0.0.1:3000",
     "bucketPrefix": "<oss-bucket-prefix>"
 }
@@ -61,5 +61,5 @@ npm run dev
 
 ```shell
 npm run build
-PORT=3000 node ./output/server/index.mjs
+PORT=3000 node .output/server/index.mjs
 ```
