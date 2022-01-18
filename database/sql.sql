@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS posts;
+CREATE TABLE IF NOT EXISTS `posts`(
+    `id` INT NOT NULL AUTO_INCREMENT,
+    `date` INT,
+    `content` VARCHAR(10000),
+    `links` JSON,
+    PRIMARY KEY (id)
+)DEFAULT CHARACTER SET = utf8mb4;

@@ -1,0 +1,19 @@
+{
+    "mysql": {
+        "host": "<mysql-host>",
+        "user": "<mysql-username>",
+        "password": "<mysql-password>",
+        "database": "<mysql-database>",
+        "charset" : "utf8mb4",
+        "table": "<mysql-table>"
+    },
+    "oss": {
+        "region": "<oss-region>",
+        "accessKeyId": "<oss-accessKeyId>",
+        "accessKeySecret": "<oss-accessKeySecret>",
+        "bucket": "<oss-bucket>",
+        "arn": "<oss-arn>"
+    },
+    "baseurl": "http://127.0.0.1:3000",
+    "bucketPrefix": "<oss-bucket-prefix>"
+}
