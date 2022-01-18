@@ -1,5 +1,5 @@
 <template>
-    <div class="documentation scrolling-component" ref="scrollComponent" >
+    <div class="documentation" >
         <div class="main-field">
             <div class="post">
                 <div class="page-control">
@@ -31,7 +31,7 @@
     </div>
 </template>
 
-<style scoped>
+<style>
     .current-page {
         font-weight: 700;
         user-select: none;
