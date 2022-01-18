@@ -46,8 +46,8 @@ Edit the database and oss info in `config/configDemo.json`, or create a new json
     	"bucket": "<oss-bucket>",
     	"arn": "<oss-arn>"
 	},
-  	"baseurl": "http://127.0.0.1:3000",
-   	"bucketPrefix": "<oss-bucket-prefix>"
+    "baseurl": "http://127.0.0.1:3000",
+    "bucketPrefix": "<oss-bucket-prefix>"
 }
 ```
 
