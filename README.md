@@ -10,14 +10,14 @@ Personal timeline demo developed with Nuxt3
 
 ### demo
 
-[online demo](https://timeline.demo.jyh.sb/edit){target="_blank"}
+<a href="https://timeline.demo.jyh.sb/edit" target="_blank">online demo</a>
 
 ### pages
 
-- `/`: timeline preview - [demo/](https://timeline.demo.jyh.sb/){target="_blank"}
-- `/edit`: timeline with editor - [demo/edit](https://timeline.demo.jyh.sb/edit){target="_blank"}
-- `/0-n`: pagination preview - [demo/0](https://timeline.demo.jyh.sb/0){target="_blank"}
-- `/page`: redirect to page route - [demo/page](https://timeline.demo.jyh.sb/page){target="_blank"}
+- `/`: timeline preview - <a href="https://timeline.demo.jyh.sb/" target="_blank">demo/</a>
+- `/edit`: timeline with editor - <a href="https://timeline.demo.jyh.sb/edit" target="_blank">demo/edit</a>
+- `/0-n`: pagination preview - <a href="https://timeline.demo.jyh.sb/0" target="_blank">demo/0</a>
+- `/page`: redirect to page route - <a href="https://timeline.demo.jyh.sb/page" target="_blank">demo/page</a>
 
 ### Installation
 
