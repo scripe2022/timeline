@@ -10,7 +10,7 @@ Personal timeline demo developed with Nuxt3
 
 ### demo
 
-<a href="https://timeline.demo.jyh.sb/edit" target="_blank">online demo</a>
+<a href="https://timeline.demo.jyhsb.net/edit" target="_blank">online demo</a>
 
 ### pages
 
