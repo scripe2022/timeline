@@ -10,4 +10,3 @@ nuxt.d.ts
 **/database/*
 !**/database/sql.sql
 !**/database/mysqlQuery.js
-!**/database/init.js
