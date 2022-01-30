@@ -334,7 +334,8 @@
 
                 await client.put(objectKey, buffer)
                     .then(function(result) {
-                        const url = result.url.slice(0, 4) + 's' + result.url.slice(4, result.url.length);
+                        // const url = result.url.slice(0, 4) + 's' + result.url.slice(4, result.url.length);
+                        const url = result.url;
                         resolve(url);
                     }).catch(function(error) {
                         reject(error);

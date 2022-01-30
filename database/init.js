@@ -1,5 +1,16 @@
-var config = require('~/config/config.js');
+// var config = require('../config/config.js');
 var mysql = require('mysql');
+
+const config = {
+    "mysql": {
+        "host": "rm-uf619jbd60010s6n9qo.mysql.rds.aliyuncs.com",
+        "user": "timeline_user",
+        "password": "Scripter20",
+        "database": "timeline",
+        "charset" : "utf8mb4",
+        "table": "posts_demo"
+    }
+}
 var connection = mysql.createConnection(config.mysql);
 
 connection.connect();
